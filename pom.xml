@@ -33,12 +33,12 @@
 <distributionManagement>
     <snapshotRepository>
       <id>nexusRepo</id>
-      <url>http://3.128.26.4:8081/repository/Snapshot_new/</url>
+      <url>http://3.128.26.4:8081/repository/snap/</url>
    </snapshotRepository>
 
    <repository>
       <id>nexusRepo</id>
-      <url>http://3.128.26.4:8081/repository/Release_new/</url>
+      <url>http://3.128.26.4:8081/repository/rele/</url>
    </repository>
 </distributionManagement>
 	<build>
