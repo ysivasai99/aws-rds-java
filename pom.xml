@@ -30,17 +30,17 @@
 			<version>4.10</version>
 		</dependency>
 	</dependencies>
-	<distributionManagement>
-<snapshotRepository>
-   <id>nexusRepo</id>
-   <url>http://3.128.26.4:8081/repository/Snapshot_new/</url>
-</snapshotRepository>
+<distributionManagement>
+    <snapshotRepository>
+      <id>nexusRepo</id>
+      <url>http://3.128.26.4:8081/repository/Snapshot_new/</url>
+   </snapshotRepository>
 
-<repository>
-   <id>nexusRepo</id>
-   <url>http://3.128.26.4:8081/repository/Release_new/</url>
-</repository>
-  </distributionManagement>
+   <repository>
+      <id>nexusRepo</id>
+      <url>http://3.128.26.4:8081/repository/Release_new/</url>
+   </repository>
+</distributionManagement>
 	<build>
 		<finalName>LoginWebApp</finalName>
 	</build>
