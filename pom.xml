@@ -33,7 +33,7 @@
 <distributionManagement>
     <snapshotRepository>
       <id>nexusRepo</id>
-      <url>http://3.128.26.4:8081/repository/snap/</url>
+      <url>http://54.196.32.114:8081/repository/mvn_shanshot_new/</url>
    </snapshotRepository>
 
    <repository>
